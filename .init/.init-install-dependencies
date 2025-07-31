@@ -1,0 +1,4 @@
+{
+    "command": "cd db_visualizer && npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/employee-activity-and-management-system-90342-92551/MainDatabase"
+}
